@@ -10,7 +10,7 @@ Ubuntu             | 14.04 LTS (Trusty Tahr) | http://releases.ubuntu.com/14.04/
 
 The stack is made for __x86__ and __x86_64__ architectures, as well it works pretty optimized on __ARM__ processors. It can be used from an Embedded Linux board to any high-end production server.
 
-A vanilla Duda I/O running in memory should consume around __500KB__, based on the general setup, packages, expected load and the _Web Service_ running, it may vary and require more resources. It can be optimized for any kind of resources available depending on needs.
+A vanilla Duda I/O running in memory should consume around __500KB__, but based on the general setup, packages, expected load and the requirements for the running _Web Service_, it may vary and require more resources. It can be optimized and customized for any type of need.
 
 ## Ubuntu packages
 
