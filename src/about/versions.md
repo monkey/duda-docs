@@ -17,6 +17,6 @@ DST-2  | Monkey v1.6  | `under development` |
 
 [Duda I/O](http://duda.io) is build on top of [Monkey HTTP Server](http://monkey-project.com), for hence it inherits it features and stability. Each __DST__ is based on a stock version of [Monkey](http://monkey-project.com), e.g: __DST-1__ is based on stock __Monkey v1.4__.
 
-During the __Long Term Support__ period cycle, the stack receives any bug fix that Monkey receives on it upstream version. We make sure that any problem and further fix _must_ be back ported to the supported __DST__ branches on that moment.
+During the __Long Term Support__ period cycle, the stack receives all relevant bug fixes that [Monkey](http://monkey-project.com) get on it upstream version. We make sure that any problem and further fix _must_ be back ported to the supported __DST__ branches.
 
-Running a first-class HTTP stack is the key of success in terms of performance, security and general integration with different layers of software.
+Running a first-class HTTP stack is the key of success in terms of performance, security and general integration with different layers of software. To learn more about  [Monkey](http://monkey-project.com) please visit the official site [monkey-project.com](http://monkey-project.com).
