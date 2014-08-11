@@ -1,5 +1,6 @@
 * [About](about/README.md)
     * [License](about/license.md)
+    * [General Features](about/features.md)
     * [Versions](about/versions.md)
 * [Getting Started](getting_started/README.md)
     * [Requirements](getting_started/requirements.md)
