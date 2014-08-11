@@ -5,6 +5,8 @@
 Linux Distribution | Version      | Link
 -------------------|--------------|-------
 Ubuntu             | 14.04 LTS (Trusty Tahr) | http://releases.ubuntu.com/14.04/
+Redhat             | `under review` |
+CentOS             | `under review` |
 
 ## Hardware
 
