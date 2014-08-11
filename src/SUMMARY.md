@@ -5,3 +5,4 @@
 * [Getting Started](getting_started/README.md)
     * [Requirements](getting_started/requirements.md)
     * [Stack Components](getting_started/components.md)
+    * [Duda Client Manager](getting_started/duda_client_manager.md)
