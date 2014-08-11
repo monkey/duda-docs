@@ -5,4 +5,7 @@
 * [Getting Started](getting_started/README.md)
     * [Requirements](getting_started/requirements.md)
     * [Stack Components](getting_started/components.md)
-    * [Duda Client Manager](getting_started/duda_client_manager.md)
+* [Duda Client / DudaC](dudac/README.md)
+    * [Download](dudac/download.md)
+    * [Setup](dudac/setup.md)
+    * [Run a Service](dudac/run.md)
